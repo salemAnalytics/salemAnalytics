@@ -1,14 +1,14 @@
 # Hi, I'm Ahmed Salem 👋
 
-**Data Analyst** turning raw data into clear, decision-ready insights.
+**Data Analyst** turning raw data into clear, decision-ready insights. Freelance data analyst since January 2025, delivering Power BI reporting for clients.
 
-I build end-to-end analytics work: cleaning and modeling data, writing SQL, and designing dashboards that answer real business questions. Currently deepening my SQL (queries, joins, aggregations) and growing my project portfolio.
+I build end-to-end analytics work: cleaning and modeling data, writing SQL, and designing dashboards that answer real business questions. Growing my project portfolio.
 
 ## 🛠️ Skills
 
 - **BI & Visualization:** Power BI, DAX, Data Modeling, What-If Analysis
 - **Data:** SQL, Power Query, Excel (advanced), Data Cleaning & ETL
-- **Programming:** Python, HTML, CSS, JavaScript
+- **Programming:** Python, HTML, CSS, JavaScript, Bootstrap, React
 - **Tools:** Git & GitHub
 
 ## 📊 Featured Project
@@ -19,8 +19,8 @@ I build end-to-end analytics work: cleaning and modeling data, writing SQL, and 
 
 ## 📚 Currently Learning
 
-- SQL in depth: from SELECT / WHERE / ORDER BY toward joins, subqueries and window functions
 - New portfolio projects (next one coming soon)
+- Tableau
 
 ## 📫 Reach Me
 
